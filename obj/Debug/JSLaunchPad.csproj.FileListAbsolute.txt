@@ -1,0 +1,10 @@
+D:\LaunchPad_H1Z1\JSLaunchPad\bin\Debug\JSLaunchPad.exe.config
+D:\LaunchPad_H1Z1\JSLaunchPad\bin\Debug\JSLaunchPad.exe
+D:\LaunchPad_H1Z1\JSLaunchPad\bin\Debug\JSLaunchPad.pdb
+D:\LaunchPad_H1Z1\JSLaunchPad\obj\Debug\JSLaunchPad.csprojAssemblyReference.cache
+D:\LaunchPad_H1Z1\JSLaunchPad\obj\Debug\JSLaunchPad.MainForm.resources
+D:\LaunchPad_H1Z1\JSLaunchPad\obj\Debug\JSLaunchPad.Properties.Resources.resources
+D:\LaunchPad_H1Z1\JSLaunchPad\obj\Debug\JSLaunchPad.csproj.GenerateResource.cache
+D:\LaunchPad_H1Z1\JSLaunchPad\obj\Debug\JSLaunchPad.csproj.CoreCompileInputs.cache
+D:\LaunchPad_H1Z1\JSLaunchPad\obj\Debug\JSLaunchPad.exe
+D:\LaunchPad_H1Z1\JSLaunchPad\obj\Debug\JSLaunchPad.pdb

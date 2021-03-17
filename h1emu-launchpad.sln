@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "h1emu-launchpad", "h1emu-launchpad.csproj", "{BC5C3AC6-7DD1-451F-9C80-19BA202AEE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		js-live|Any CPU = js-live|Any CPU
+		js-test|Any CPU = js-test|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5C3AC6-7DD1-451F-9C80-19BA202AEE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5C3AC6-7DD1-451F-9C80-19BA202AEE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5C3AC6-7DD1-451F-9C80-19BA202AEE6E}.js-live|Any CPU.ActiveCfg = js-live|Any CPU
+		{BC5C3AC6-7DD1-451F-9C80-19BA202AEE6E}.js-live|Any CPU.Build.0 = js-live|Any CPU
+		{BC5C3AC6-7DD1-451F-9C80-19BA202AEE6E}.js-test|Any CPU.ActiveCfg = js-test|Any CPU
+		{BC5C3AC6-7DD1-451F-9C80-19BA202AEE6E}.js-test|Any CPU.Build.0 = js-test|Any CPU
+		{BC5C3AC6-7DD1-451F-9C80-19BA202AEE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5C3AC6-7DD1-451F-9C80-19BA202AEE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ECC9AE6-69C0-4427-8221-11DEF3C9ADA6}
+	EndGlobalSection
+EndGlobal
