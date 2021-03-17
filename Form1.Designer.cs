@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.MainBrowser = new System.Windows.Forms.WebBrowser();
             this.SuspendLayout();
             // 
@@ -44,7 +45,7 @@
             this.MainBrowser.ScrollBarsEnabled = false;
             this.MainBrowser.Size = new System.Drawing.Size(860, 524);
             this.MainBrowser.TabIndex = 0;
-            this.MainBrowser.Url = new System.Uri("https://dev.h1emu.com/lp.php?gameid=js-live", System.UriKind.Absolute);
+            this.MainBrowser.Url = new System.Uri("", System.UriKind.Relative);
             this.MainBrowser.WebBrowserShortcutsEnabled = false;
             this.MainBrowser.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.MainBrowser_DocumentCompleted);
             // 
@@ -56,6 +57,7 @@
             this.ClientSize = new System.Drawing.Size(860, 524);
             this.Controls.Add(this.MainBrowser);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "MainForm";
             this.Text = "H1EMU:JS LaunchPad";
